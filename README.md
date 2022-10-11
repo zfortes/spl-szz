@@ -1,5 +1,5 @@
 # SPL-SZZ
-A software product line that implements the SZZ algorithm implemented in Go programming language
+SPL-SZZ - An implementation of the extensible SZZ algorithm.
 
 ### Requesitos
 
@@ -19,7 +19,11 @@ cargo build --release
 ```
 
 ## Run executable
-In prompt command:
+1 - In https://github.com/zfortes/spl-szz/releases/, download spl-szz_win-x64.zip and extract files.
+
+2 - Populate the config.json and bugfix_commits files.
+
+3 - Open prompt command and run:
 ```
 spl-szz.exe
 ```
