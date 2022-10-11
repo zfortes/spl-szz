@@ -1,0 +1,5414 @@
+[
+  {
+    "id": null,
+    "repo_name": "INRIA/spoon",
+    "founded_bug_commit_hash": "a94e255b6daf319d9c13bd1d4d0510c58bdd7733",
+    "fix_commit_hash": "1a9b670225b1cf2586e80cde24c4ce9bfdf06da4"
+  },
+  {
+    "id": null,
+    "repo_name": "INRIA/spoon",
+    "founded_bug_commit_hash": "a94e255b6daf319d9c13bd1d4d0510c58bdd7733",
+    "fix_commit_hash": "1a9b670225b1cf2586e80cde24c4ce9bfdf06da4"
+  },
+  {
+    "id": null,
+    "repo_name": "INRIA/spoon",
+    "founded_bug_commit_hash": "adb2fd7420b3bf01e696be87f4791759bfb6de53",
+    "fix_commit_hash": "1a9b670225b1cf2586e80cde24c4ce9bfdf06da4"
+  },
+  {
+    "id": null,
+    "repo_name": "INRIA/spoon",
+    "founded_bug_commit_hash": "7b1204417230cbba54a9f31d79ac70662607c774",
+    "fix_commit_hash": "1a9b670225b1cf2586e80cde24c4ce9bfdf06da4"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "50bf1ad6eb5907e46a52d08a1858a87c30453ca1",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "79f4be80578f39ab4fcbf3f0f1ec824a52efc767",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "79f4be80578f39ab4fcbf3f0f1ec824a52efc767",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "dd07deea51c08b618e140fc8d781acf7d9ca91e8",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "79f4be80578f39ab4fcbf3f0f1ec824a52efc767",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "79f4be80578f39ab4fcbf3f0f1ec824a52efc767",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "dd07deea51c08b618e140fc8d781acf7d9ca91e8",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "SimpleServer/SimpleServer",
+    "founded_bug_commit_hash": "67d0a686e4dc4322714f0cca1c18447197b0a8df",
+    "fix_commit_hash": "8b16295318cd85c55b04e962479de1c6532a6759"
+  },
+  {
+    "id": null,
+    "repo_name": "open-keychain/open-keychain",
+    "founded_bug_commit_hash": "1a202b028df0632a12399f7257e4a1fa1c90fbf6",
+    "fix_commit_hash": "eb5eb95a9ffb0f340c85c0710b451a5895988e21"
+  },
+  {
+    "id": null,
+    "repo_name": "open-keychain/open-keychain",
+    "founded_bug_commit_hash": "1a202b028df0632a12399f7257e4a1fa1c90fbf6",
+    "fix_commit_hash": "eb5eb95a9ffb0f340c85c0710b451a5895988e21"
+  },
+  {
+    "id": null,
+    "repo_name": "open-keychain/open-keychain",
+    "founded_bug_commit_hash": "1a202b028df0632a12399f7257e4a1fa1c90fbf6",
+    "fix_commit_hash": "eb5eb95a9ffb0f340c85c0710b451a5895988e21"
+  },
+  {
+    "id": null,
+    "repo_name": "open-keychain/open-keychain",
+    "founded_bug_commit_hash": "1a202b028df0632a12399f7257e4a1fa1c90fbf6",
+    "fix_commit_hash": "eb5eb95a9ffb0f340c85c0710b451a5895988e21"
+  },
+  {
+    "id": null,
+    "repo_name": "open-keychain/open-keychain",
+    "founded_bug_commit_hash": "1a202b028df0632a12399f7257e4a1fa1c90fbf6",
+    "fix_commit_hash": "eb5eb95a9ffb0f340c85c0710b451a5895988e21"
+  },
+  {
+    "id": null,
+    "repo_name": "open-keychain/open-keychain",
+    "founded_bug_commit_hash": "1a202b028df0632a12399f7257e4a1fa1c90fbf6",
+    "fix_commit_hash": "eb5eb95a9ffb0f340c85c0710b451a5895988e21"
+  },
+  {
+    "id": null,
+    "repo_name": "open-keychain/open-keychain",
+    "founded_bug_commit_hash": "1a202b028df0632a12399f7257e4a1fa1c90fbf6",
+    "fix_commit_hash": "eb5eb95a9ffb0f340c85c0710b451a5895988e21"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "computationalcore/smartcoins-wallet",
+    "founded_bug_commit_hash": "65efaa932ee6d0bcda6f97bf03616f1b7024aeaa",
+    "fix_commit_hash": "038034fcb6daee5355c58bde8b870b5b87c28b3d"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "37b84fb6425485bd5f2ab0396885a9a9d616e47c",
+    "fix_commit_hash": "162f942f4839b451fac706a2b0fa49f2eaf5ae77"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "37b84fb6425485bd5f2ab0396885a9a9d616e47c",
+    "fix_commit_hash": "162f942f4839b451fac706a2b0fa49f2eaf5ae77"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "fab0f61a025f824f76980d54c3aa2cfa435a8c79",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "fab0f61a025f824f76980d54c3aa2cfa435a8c79",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "8359c9faaa074a4bbcdc677971a42ae17133356a",
+    "fix_commit_hash": "0e882cc4944bdd6305cafd5d2c05a063c7f873d7"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "711d109e3d1a8ed28e0ee7521084470cfc8a9771",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "711d109e3d1a8ed28e0ee7521084470cfc8a9771",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "711d109e3d1a8ed28e0ee7521084470cfc8a9771",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "fab0f61a025f824f76980d54c3aa2cfa435a8c79",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "fab0f61a025f824f76980d54c3aa2cfa435a8c79",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "fab0f61a025f824f76980d54c3aa2cfa435a8c79",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "thinkaurelius/titan",
+    "founded_bug_commit_hash": "fab0f61a025f824f76980d54c3aa2cfa435a8c79",
+    "fix_commit_hash": "c45960b3fafc0bb89d8e94ddb9cf8c70d035ea46"
+  },
+  {
+    "id": null,
+    "repo_name": "christ66/git-plugin",
+    "founded_bug_commit_hash": "4fc7f4447c990082e8322c42ebafd1f33a2e60aa",
+    "fix_commit_hash": "8e827f29adac0c3345f3184458e1d8502a88622d"
+  },
+  {
+    "id": null,
+    "repo_name": "vr100/github-api",
+    "founded_bug_commit_hash": "fee02a3d16aa835c2f1e606897e4bd08e51ba7d5",
+    "fix_commit_hash": "d29ea97948f56025e05b766e8b64382447c804e0"
+  },
+  {
+    "id": null,
+    "repo_name": "lumannnn/AudioRacer",
+    "founded_bug_commit_hash": "148160df609bd7f77883c80b8202d703f0cc2225",
+    "fix_commit_hash": "f23a9d127d6de31a431b93c999b5db835dd61d10"
+  },
+  {
+    "id": null,
+    "repo_name": "polyglot-compiler/polyglot",
+    "founded_bug_commit_hash": "05d060549f4aed4ebab7537e75db87accb04f578",
+    "fix_commit_hash": "255cfc09720e3d906586abfb50a42571e66ab110"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "bc910d85e112fa0c6fac5f485f338be58117ea6b",
+    "fix_commit_hash": "6e83ecbd7afe808af29e75c5d1cc9b4b02475bc0"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "8359c9faaa074a4bbcdc677971a42ae17133356a",
+    "fix_commit_hash": "0e882cc4944bdd6305cafd5d2c05a063c7f873d7"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "8359c9faaa074a4bbcdc677971a42ae17133356a",
+    "fix_commit_hash": "0e882cc4944bdd6305cafd5d2c05a063c7f873d7"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "8359c9faaa074a4bbcdc677971a42ae17133356a",
+    "fix_commit_hash": "0e882cc4944bdd6305cafd5d2c05a063c7f873d7"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "8359c9faaa074a4bbcdc677971a42ae17133356a",
+    "fix_commit_hash": "0e882cc4944bdd6305cafd5d2c05a063c7f873d7"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "0dd84a04f05c4a852194e92db650588d1a8166c0",
+    "fix_commit_hash": "fd604383e5e5d2243a614fe374eb080c9ae55d5a"
+  },
+  {
+    "id": null,
+    "repo_name": "UniTime/unitime",
+    "founded_bug_commit_hash": "dffa2a5298ca0540313fbae53788c9842eab2cdf",
+    "fix_commit_hash": "dd6dc2da5d55b928dd41f1c5a8efb7df73e897f3"
+  },
+  {
+    "id": null,
+    "repo_name": "huanghongxun/HMCL",
+    "founded_bug_commit_hash": "3fb5048f103ed958bdd87207f6b6c929b5ef7eca",
+    "fix_commit_hash": "87904109ca7e2557ebe8c28c55dc9d6baeca924b"
+  },
+  {
+    "id": null,
+    "repo_name": "huanghongxun/HMCL",
+    "founded_bug_commit_hash": "3fb5048f103ed958bdd87207f6b6c929b5ef7eca",
+    "fix_commit_hash": "87904109ca7e2557ebe8c28c55dc9d6baeca924b"
+  },
+  {
+    "id": null,
+    "repo_name": "huanghongxun/HMCL",
+    "founded_bug_commit_hash": "3fb5048f103ed958bdd87207f6b6c929b5ef7eca",
+    "fix_commit_hash": "87904109ca7e2557ebe8c28c55dc9d6baeca924b"
+  },
+  {
+    "id": null,
+    "repo_name": "huanghongxun/HMCL",
+    "founded_bug_commit_hash": "3fb5048f103ed958bdd87207f6b6c929b5ef7eca",
+    "fix_commit_hash": "87904109ca7e2557ebe8c28c55dc9d6baeca924b"
+  },
+  {
+    "id": null,
+    "repo_name": "codinguser/gnucash-android",
+    "founded_bug_commit_hash": "66cc5332e67e04cb6ce00c558237ea32a77bc627",
+    "fix_commit_hash": "fd7007ef21c50b1fb3b24d06ac63173b02832f5f"
+  },
+  {
+    "id": null,
+    "repo_name": "openmicroscopy/bioformats",
+    "founded_bug_commit_hash": "7aecd02bea1ec57b96fd272257887cd1d589a26b",
+    "fix_commit_hash": "8a229359570d1c73ec375de98083365f420a0fd7"
+  },
+  {
+    "id": null,
+    "repo_name": "JetBrains/xodus",
+    "founded_bug_commit_hash": "0dff56fdb2525803c950b97fd6d2469357075703",
+    "fix_commit_hash": "faeb702f730e85df059009d307ee37b7d9eb525b"
+  },
+  {
+    "id": null,
+    "repo_name": "JetBrains/xodus",
+    "founded_bug_commit_hash": "0dff56fdb2525803c950b97fd6d2469357075703",
+    "fix_commit_hash": "faeb702f730e85df059009d307ee37b7d9eb525b"
+  },
+  {
+    "id": null,
+    "repo_name": "openmicroscopy/bioformats",
+    "founded_bug_commit_hash": "b48fd4a88c599647535f6943a8a62b3d77c1d6e5",
+    "fix_commit_hash": "9cec69a5085d69ea9956dee7053ddd22fd3b415f"
+  },
+  {
+    "id": null,
+    "repo_name": "fertrist/mishpaha-project-backend",
+    "founded_bug_commit_hash": "a39de719e930f450c488dabd21f66f7221e5f80d",
+    "fix_commit_hash": "ec3904a25562a105868163a69270ed79718ddb41"
+  },
+  {
+    "id": null,
+    "repo_name": "PreibischLab/BigStitcher",
+    "founded_bug_commit_hash": "4516bc398890e38238d02b4a1f5fe1440f107ea9",
+    "fix_commit_hash": "78e3042946af79fdf0a60fc6a2fea63af618d83b"
+  },
+  {
+    "id": null,
+    "repo_name": "PreibischLab/BigStitcher",
+    "founded_bug_commit_hash": "acef72c39cbf097729924faebb8b92c825642e33",
+    "fix_commit_hash": "78e3042946af79fdf0a60fc6a2fea63af618d83b"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "5d2429b9bc565572474aae7936fb17a4666074b5",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "5d2429b9bc565572474aae7936fb17a4666074b5",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "9564f1eba432926795339765345abf476a0830c9",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "9564f1eba432926795339765345abf476a0830c9",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "9564f1eba432926795339765345abf476a0830c9",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "9564f1eba432926795339765345abf476a0830c9",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "9564f1eba432926795339765345abf476a0830c9",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "36c7007c86a790a4957ce8a054fa48eda7cc1f05",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "36c7007c86a790a4957ce8a054fa48eda7cc1f05",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Unidata/IDV",
+    "founded_bug_commit_hash": "36c7007c86a790a4957ce8a054fa48eda7cc1f05",
+    "fix_commit_hash": "32e8dfcd494242b4ae2ae00824273d6ace0fe251"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "002e91d05f4d34bbe9c82a756dc0c99b2283b22c",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "648864118d17e15f7278ab2c17ca2479fe88f17f",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "648864118d17e15f7278ab2c17ca2479fe88f17f",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "648864118d17e15f7278ab2c17ca2479fe88f17f",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "6d930d6bfbf9260f218982131c91bc2a6cf616e5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "6d930d6bfbf9260f218982131c91bc2a6cf616e5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "6d930d6bfbf9260f218982131c91bc2a6cf616e5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "6d930d6bfbf9260f218982131c91bc2a6cf616e5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "6d930d6bfbf9260f218982131c91bc2a6cf616e5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "6d930d6bfbf9260f218982131c91bc2a6cf616e5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "af93ae74310639f406c35f885cc1204917c68dc5",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "palantir/atlasdb",
+    "founded_bug_commit_hash": "3b9411d5d0d081b4940d65fdef6436c5a38cc659",
+    "fix_commit_hash": "d4b19939970988390481de0e3761d05803bdd17e"
+  },
+  {
+    "id": null,
+    "repo_name": "tswift242/tetris",
+    "founded_bug_commit_hash": "dcec42bbee3b983c4bbcd2a258f84f69be20b124",
+    "fix_commit_hash": "4990aed787007c5809635fe2e059a756804bc16e"
+  },
+  {
+    "id": null,
+    "repo_name": "IronTeaPot/react-native-charts-wrapper",
+    "founded_bug_commit_hash": "878f01068593e4f72334452100d346ccd050f1e3",
+    "fix_commit_hash": "3da25d5164cd69ed1ee83c89b5660917e81faf62"
+  },
+  {
+    "id": null,
+    "repo_name": "IronTeaPot/react-native-charts-wrapper",
+    "founded_bug_commit_hash": "878f01068593e4f72334452100d346ccd050f1e3",
+    "fix_commit_hash": "3da25d5164cd69ed1ee83c89b5660917e81faf62"
+  },
+  {
+    "id": null,
+    "repo_name": "IronTeaPot/react-native-charts-wrapper",
+    "founded_bug_commit_hash": "878f01068593e4f72334452100d346ccd050f1e3",
+    "fix_commit_hash": "3da25d5164cd69ed1ee83c89b5660917e81faf62"
+  },
+  {
+    "id": null,
+    "repo_name": "scylladb/scylla-tools-java",
+    "founded_bug_commit_hash": "13b64ad6e3d4841c4f7b49aef0858c196cb2b5e6",
+    "fix_commit_hash": "20eb39fa192f14fec0edbe0a44db214f893876ae"
+  },
+  {
+    "id": null,
+    "repo_name": "scylladb/scylla-tools-java",
+    "founded_bug_commit_hash": "13b64ad6e3d4841c4f7b49aef0858c196cb2b5e6",
+    "fix_commit_hash": "20eb39fa192f14fec0edbe0a44db214f893876ae"
+  },
+  {
+    "id": null,
+    "repo_name": "JetBrains/MPS",
+    "founded_bug_commit_hash": "199ca4e59019df4572190f32b03ca709274ced7c",
+    "fix_commit_hash": "2be7099c8498cf258cdc4c8395de8e3c15eef9a7"
+  },
+  {
+    "id": null,
+    "repo_name": "libbun/libbun",
+    "founded_bug_commit_hash": "800f8fb7166942a90b20ffd2c70f5dae4763c9f8",
+    "fix_commit_hash": "4cded138238db6b3ba8bf208fa3b39f200f7067d"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "jeromewagener/Sammelbox",
+    "founded_bug_commit_hash": "0796b1dac9fc7be85940502c21da3af5e07be56b",
+    "fix_commit_hash": "177596d2556af23511d59b3b62e64a93620ff394"
+  },
+  {
+    "id": null,
+    "repo_name": "JetBrains/intellij-community",
+    "founded_bug_commit_hash": "ac494c6c2710a207f51a219e3b09360a9c94203c",
+    "fix_commit_hash": "5cf9c9264eacec609c423d97a8b1a9212269186f"
+  },
+  {
+    "id": null,
+    "repo_name": "diffplug/goomph",
+    "founded_bug_commit_hash": "7434506f7fd3a069f899c1d535eaf0a876306c6f",
+    "fix_commit_hash": "bf21861e89e50caad342043d4dcffdd30d5e9434"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "eb0a9974753ae101c0ebe9145bc305f4d3d94afd",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "eb0a9974753ae101c0ebe9145bc305f4d3d94afd",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "eb0a9974753ae101c0ebe9145bc305f4d3d94afd",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "c7709132016c613956b98c92f204dcb182cfc1b0",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "11003676bc33f36ae4344a4ffced272a12279200",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "11003676bc33f36ae4344a4ffced272a12279200",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "11003676bc33f36ae4344a4ffced272a12279200",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "11003676bc33f36ae4344a4ffced272a12279200",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "11003676bc33f36ae4344a4ffced272a12279200",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "f177c04e5e9a8b39f04f292c451ee69a24bdaa94",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "70435f456d73b3ee2e555b8b4ec46df0b4411951",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "70435f456d73b3ee2e555b8b4ec46df0b4411951",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "70435f456d73b3ee2e555b8b4ec46df0b4411951",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "cfd36e188d8c3db94b657298f2624ac573d72969",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "70435f456d73b3ee2e555b8b4ec46df0b4411951",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "Sable/soot",
+    "founded_bug_commit_hash": "70435f456d73b3ee2e555b8b4ec46df0b4411951",
+    "fix_commit_hash": "0887292a3f7928d817282b0266da9be40040c3da"
+  },
+  {
+    "id": null,
+    "repo_name": "MaTriXy/Paginize",
+    "founded_bug_commit_hash": "f2dbecb84ec45427f76bf02fc29fa1a8b2c9dd2e",
+    "fix_commit_hash": "8b0238c064c8a7465f2c65c40a05be2a6d980636"
+  },
+  {
+    "id": null,
+    "repo_name": "MaTriXy/Paginize",
+    "founded_bug_commit_hash": "f2dbecb84ec45427f76bf02fc29fa1a8b2c9dd2e",
+    "fix_commit_hash": "8b0238c064c8a7465f2c65c40a05be2a6d980636"
+  },
+  {
+    "id": null,
+    "repo_name": "siemens/JMiniZinc",
+    "founded_bug_commit_hash": "244613573ba49ba86e7182be6351652203b44db4",
+    "fix_commit_hash": "8b2049abfef423d37670f7ae65e471839856ea68"
+  },
+  {
+    "id": null,
+    "repo_name": "siemens/JMiniZinc",
+    "founded_bug_commit_hash": "244613573ba49ba86e7182be6351652203b44db4",
+    "fix_commit_hash": "8b2049abfef423d37670f7ae65e471839856ea68"
+  },
+  {
+    "id": null,
+    "repo_name": "siemens/JMiniZinc",
+    "founded_bug_commit_hash": "244613573ba49ba86e7182be6351652203b44db4",
+    "fix_commit_hash": "8b2049abfef423d37670f7ae65e471839856ea68"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "7558b89140019b221b4732be14efbd6f291decda",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "7558b89140019b221b4732be14efbd6f291decda",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "7558b89140019b221b4732be14efbd6f291decda",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "7558b89140019b221b4732be14efbd6f291decda",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "a606537bf9dcdc884820ae18adb9b5d78d1ef0b8",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "4a1eb6212bc3d91d186887ac91489ec096ff7a71",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "doe300/jactiverecord",
+    "founded_bug_commit_hash": "44659a1cbb2d20e8049675f7068bf852598284a5",
+    "fix_commit_hash": "cf786fd58f2454802ba873eb94e6c9347e4e4071"
+  },
+  {
+    "id": null,
+    "repo_name": "oVirt/ovirt-engine",
+    "founded_bug_commit_hash": "1bfc9d0cc2e5e3a61fe3985d74b44efc6d6366a4",
+    "fix_commit_hash": "30394030106a6b78388ade892d1616bbce02f8a9"
+  },
+  {
+    "id": null,
+    "repo_name": "andrewphorn/ClassiCube-Client",
+    "founded_bug_commit_hash": "d37442cdb1189c7202c177901832e34f582e2feb",
+    "fix_commit_hash": "638ece305bdbd783e4c326011dd1446c737b536f"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "3f479e07bbb0b6934daae712e961a5bcbe9e90a5",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "fd5b5a4b3238b34ecdceb6e24e113dfc80fa93fa",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "fd5b5a4b3238b34ecdceb6e24e113dfc80fa93fa",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "fd5b5a4b3238b34ecdceb6e24e113dfc80fa93fa",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "c8156def8cdc0f33f763b3edd9cec79f86c9b390",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "fd5b5a4b3238b34ecdceb6e24e113dfc80fa93fa",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "58b34e99527747bb53bae2d480526eb349914559",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "58b34e99527747bb53bae2d480526eb349914559",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "fd5b5a4b3238b34ecdceb6e24e113dfc80fa93fa",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "3f479e07bbb0b6934daae712e961a5bcbe9e90a5",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "a5190d342469e14504a9805cc978d59f2da55747",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "c22ef3815260e716fec382a6a90ebf6a98233b93",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "fd5b5a4b3238b34ecdceb6e24e113dfc80fa93fa",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "TheHolyWaffle/TeamSpeak-3-Java-API",
+    "founded_bug_commit_hash": "fd5b5a4b3238b34ecdceb6e24e113dfc80fa93fa",
+    "fix_commit_hash": "ca4c04eee2d41040bbb86281b06144c0a6e88b34"
+  },
+  {
+    "id": null,
+    "repo_name": "spring-projects/spring-framework",
+    "founded_bug_commit_hash": "88fe2e9b00b68b05c35f2204dbc5783ff04d9bcc",
+    "fix_commit_hash": "813108a928fd50a1fb87e9333b974b6e7242b117"
+  },
+  {
+    "id": null,
+    "repo_name": "spring-projects/spring-framework",
+    "founded_bug_commit_hash": "88fe2e9b00b68b05c35f2204dbc5783ff04d9bcc",
+    "fix_commit_hash": "813108a928fd50a1fb87e9333b974b6e7242b117"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "987608aa247272fa809414e8d07379fe1e6abfb2",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "987608aa247272fa809414e8d07379fe1e6abfb2",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "987608aa247272fa809414e8d07379fe1e6abfb2",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "987608aa247272fa809414e8d07379fe1e6abfb2",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "4a1eb6212bc3d91d186887ac91489ec096ff7a71",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "4a1eb6212bc3d91d186887ac91489ec096ff7a71",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "4a1eb6212bc3d91d186887ac91489ec096ff7a71",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "4a1eb6212bc3d91d186887ac91489ec096ff7a71",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "1c3f46911952d8926e70453a452825aef35ce00d",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "1c3f46911952d8926e70453a452825aef35ce00d",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "1c3f46911952d8926e70453a452825aef35ce00d",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "1c3f46911952d8926e70453a452825aef35ce00d",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "4a1eb6212bc3d91d186887ac91489ec096ff7a71",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "1c3f46911952d8926e70453a452825aef35ce00d",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "Wadeck/gitlab-oauth-plugin",
+    "founded_bug_commit_hash": "1c3f46911952d8926e70453a452825aef35ce00d",
+    "fix_commit_hash": "6f2f23cc1e9445376b35cec0964f01d840cd536b"
+  },
+  {
+    "id": null,
+    "repo_name": "ejaku/grgen",
+    "founded_bug_commit_hash": "8c9e95b165ac5f471d45f3b2cbb6629d7591f4fe",
+    "fix_commit_hash": "ad06ae7dd3472a319ffff5e05ad9e5c8b2b16399"
+  },
+  {
+    "id": null,
+    "repo_name": "DigitalPebble/storm-crawler",
+    "founded_bug_commit_hash": "42809e676825643189e9c16dfc8f5e7e17261077",
+    "fix_commit_hash": "ddbda7e6670cf641b7b2d360e503f7b5df082d02"
+  },
+  {
+    "id": null,
+    "repo_name": "crate/crate",
+    "founded_bug_commit_hash": "ae1e3e040f9aa8ce18393c9aeeac47902d2f8ca3",
+    "fix_commit_hash": "3c2f2d68ad75a05742010735bc066988a10b3968"
+  },
+  {
+    "id": null,
+    "repo_name": "vividus-framework/vividus",
+    "founded_bug_commit_hash": "c74c87e94e10420f559212db631d33ff37847c7c",
+    "fix_commit_hash": "ebef05e999309fb13f4d557f343ec22345d9eade"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "3cb77710281f0633cd448639503ec0fae0183237",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "98b20f79078bfcded40f27ecdf1355b59bdc98e2",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "7f7ac76c5052843b51c6329efdc89f643e8d6511",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "7f7ac76c5052843b51c6329efdc89f643e8d6511",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "aee12a1719e869c3466d36bdf7c87b386cc89019",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "aee12a1719e869c3466d36bdf7c87b386cc89019",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "aee12a1719e869c3466d36bdf7c87b386cc89019",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "aee12a1719e869c3466d36bdf7c87b386cc89019",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "98b20f79078bfcded40f27ecdf1355b59bdc98e2",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "98b20f79078bfcded40f27ecdf1355b59bdc98e2",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "1ddacb6b18f8ea549d28eda986433cef24f72c0a",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "e17768611f8fd5eba1967e051566bb054ceed957",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "3c10e2761a844002eb070da123d4c8ac3a84dd36",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "1bc0998cecffdfe02c3c36f32e91bf8c6a1975a2",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "f252bd54887a2bf9376ecef2da6ab620aecf6119",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "3c10e2761a844002eb070da123d4c8ac3a84dd36",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "5750fc950b5223278808edcd6b23f25942e693a0",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "8612722ff039f6b911b5274b3fae0454fe5c98fd",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "8612722ff039f6b911b5274b3fae0454fe5c98fd",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "8612722ff039f6b911b5274b3fae0454fe5c98fd",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "c24611e03c520bd50338700201bb1fcf9b4c72de",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "27a0c32c9113614a94fa9af3356fdde0b8d41c15",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "91a9db375bdaefc40dd2648cf51ff33a2df415d9",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "eskalon/ProjektGG",
+    "founded_bug_commit_hash": "65a7383f98f831cf957630ed5750bf2ec7f249cf",
+    "fix_commit_hash": "c309fc2daf6122939ff59b66cacdba6ea42aba04"
+  },
+  {
+    "id": null,
+    "repo_name": "garbagemule/MobArena",
+    "founded_bug_commit_hash": "88ddbe5ac6ac5aa0f18ade50aa376b25546fb058",
+    "fix_commit_hash": "ba41e51e48cc168dd8fc37f8db14db7b9fa16d65"
+  },
+  {
+    "id": null,
+    "repo_name": "jaamsim/jaamsim",
+    "founded_bug_commit_hash": "d27b20dc49504200f1e3a3d005cf7c8c23c99008",
+    "fix_commit_hash": "b8e4e6c8866244fb5dd0d94b38d44fda8fd3ca68"
+  },
+  {
+    "id": null,
+    "repo_name": "jaamsim/jaamsim",
+    "founded_bug_commit_hash": "d27b20dc49504200f1e3a3d005cf7c8c23c99008",
+    "fix_commit_hash": "b8e4e6c8866244fb5dd0d94b38d44fda8fd3ca68"
+  },
+  {
+    "id": null,
+    "repo_name": "SupunArunoda/CPACEP",
+    "founded_bug_commit_hash": "888867c602e6969d278f2f7f141004c3bd7d1b38",
+    "fix_commit_hash": "5191fe2a29985f0689acce2f76fe5de32eecb610"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "jiangxincode/Emma",
+    "founded_bug_commit_hash": "42400ef32d3644fe1632f4c0f3f9d299c49c6bc6",
+    "fix_commit_hash": "6e2378b3439f58a2e1ddb7b33e45b458415562e1"
+  },
+  {
+    "id": null,
+    "repo_name": "stephengold/Maud",
+    "founded_bug_commit_hash": "e44a62e455053aed84a67fb57d5ab82e27491202",
+    "fix_commit_hash": "3235df6cc958d6811a8e13efd3268e6f3e1f80ce"
+  },
+  {
+    "id": null,
+    "repo_name": "stephengold/Maud",
+    "founded_bug_commit_hash": "e44a62e455053aed84a67fb57d5ab82e27491202",
+    "fix_commit_hash": "3235df6cc958d6811a8e13efd3268e6f3e1f80ce"
+  },
+  {
+    "id": null,
+    "repo_name": "stephengold/Maud",
+    "founded_bug_commit_hash": "e44a62e455053aed84a67fb57d5ab82e27491202",
+    "fix_commit_hash": "3235df6cc958d6811a8e13efd3268e6f3e1f80ce"
+  },
+  {
+    "id": null,
+    "repo_name": "stephengold/Maud",
+    "founded_bug_commit_hash": "5c9fe75bbbc1ce3eb375af1cdfb45b2d5beb5372",
+    "fix_commit_hash": "3235df6cc958d6811a8e13efd3268e6f3e1f80ce"
+  },
+  {
+    "id": null,
+    "repo_name": "stephengold/Maud",
+    "founded_bug_commit_hash": "e44a62e455053aed84a67fb57d5ab82e27491202",
+    "fix_commit_hash": "3235df6cc958d6811a8e13efd3268e6f3e1f80ce"
+  },
+  {
+    "id": null,
+    "repo_name": "stephengold/Maud",
+    "founded_bug_commit_hash": "5c9fe75bbbc1ce3eb375af1cdfb45b2d5beb5372",
+    "fix_commit_hash": "3235df6cc958d6811a8e13efd3268e6f3e1f80ce"
+  },
+  {
+    "id": null,
+    "repo_name": "stephengold/Maud",
+    "founded_bug_commit_hash": "5c9fe75bbbc1ce3eb375af1cdfb45b2d5beb5372",
+    "fix_commit_hash": "3235df6cc958d6811a8e13efd3268e6f3e1f80ce"
+  },
+  {
+    "id": null,
+    "repo_name": "ilscipio/scipio-erp",
+    "founded_bug_commit_hash": "2892ce1c339c14f7e05da3463a387dc4f751a795",
+    "fix_commit_hash": "dd404c353400efb5080430e068763bf84748f2fd"
+  },
+  {
+    "id": null,
+    "repo_name": "spring-projects/spring-boot",
+    "founded_bug_commit_hash": "5938ca78b6e6bd86364b6fdae7a84fcf7f65e761",
+    "fix_commit_hash": "1ceb96f9f2644a1ad4ef0920ef3b6affcd73d3ed"
+  },
+  {
+    "id": null,
+    "repo_name": "spring-projects/spring-boot",
+    "founded_bug_commit_hash": "5938ca78b6e6bd86364b6fdae7a84fcf7f65e761",
+    "fix_commit_hash": "1ceb96f9f2644a1ad4ef0920ef3b6affcd73d3ed"
+  },
+  {
+    "id": null,
+    "repo_name": "spring-projects/spring-boot",
+    "founded_bug_commit_hash": "5938ca78b6e6bd86364b6fdae7a84fcf7f65e761",
+    "fix_commit_hash": "1ceb96f9f2644a1ad4ef0920ef3b6affcd73d3ed"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "6cfecea6c3e2b6e327fb53ac85f1894df81a10b2",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "8399707f054e5d387e1af18384efab4cd1b26e57",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "8399707f054e5d387e1af18384efab4cd1b26e57",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "ed7696b130a0b7b6fb63b4d37c4a873fa1f8f96f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "ed7696b130a0b7b6fb63b4d37c4a873fa1f8f96f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "ed7696b130a0b7b6fb63b4d37c4a873fa1f8f96f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "ed7696b130a0b7b6fb63b4d37c4a873fa1f8f96f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "ed7696b130a0b7b6fb63b4d37c4a873fa1f8f96f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "c8255f8c5f73a2353293ec1d9612dbb98f291ccc",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "d9f764f9590411c8c2e7c4e9f1a47f77b9ab987f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "d9f764f9590411c8c2e7c4e9f1a47f77b9ab987f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "d9f764f9590411c8c2e7c4e9f1a47f77b9ab987f",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "e1838f47800120252a3b5db77b7d1169e1daf801",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "apache/bookkeeper",
+    "founded_bug_commit_hash": "e1838f47800120252a3b5db77b7d1169e1daf801",
+    "fix_commit_hash": "477ff2b594afd4017f6fb9e8f294c9b2a75b0d6a"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "0c39bc5352cee452f9024a018257b162b982a6ad",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "0c39bc5352cee452f9024a018257b162b982a6ad",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "0c39bc5352cee452f9024a018257b162b982a6ad",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "0c39bc5352cee452f9024a018257b162b982a6ad",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "0c39bc5352cee452f9024a018257b162b982a6ad",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "0c39bc5352cee452f9024a018257b162b982a6ad",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "0c39bc5352cee452f9024a018257b162b982a6ad",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "d860ac048679127059d5fefbd5c72b95426e115f",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "d860ac048679127059d5fefbd5c72b95426e115f",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "d860ac048679127059d5fefbd5c72b95426e115f",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "a538530e47b5f307f5afc7377102e4a207134bcd",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "cf79df3966f75f4b05e93648ae611d68a4bf085c",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "e59d0269d26acb7f6fed0b12d65aad76f15311fa",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "e59d0269d26acb7f6fed0b12d65aad76f15311fa",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "54a743f49de8da581679c72183fa7a48b9f32685",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "54a743f49de8da581679c72183fa7a48b9f32685",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "54a743f49de8da581679c72183fa7a48b9f32685",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "54a743f49de8da581679c72183fa7a48b9f32685",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "54a743f49de8da581679c72183fa7a48b9f32685",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "54a743f49de8da581679c72183fa7a48b9f32685",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "54a743f49de8da581679c72183fa7a48b9f32685",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "e59d0269d26acb7f6fed0b12d65aad76f15311fa",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "e59d0269d26acb7f6fed0b12d65aad76f15311fa",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "e59d0269d26acb7f6fed0b12d65aad76f15311fa",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "e59d0269d26acb7f6fed0b12d65aad76f15311fa",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "c49cf2a9b744b026dd1331136d49647d74ab1275",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "prestodb/presto",
+    "founded_bug_commit_hash": "8215a398219ae55ae3568a7a3946627dd3493e70",
+    "fix_commit_hash": "b845cd66da3eb1fcece50efba83ea12bc40afbaa"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "89e6ec36bbf7de552d6193420663413c1b28c15f",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "clebertsuconic/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "ddacda50626ef2cd5ccf74a3149eccbbda4a9d84"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "6afde8f45aaa4f6a477066f3bc85fa8f89718a1d",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "4b47461f03a607b9ef517beb2a1666ffae43a2a7",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "mtaylor/activemq-artemis",
+    "founded_bug_commit_hash": "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+    "fix_commit_hash": "9a905ceef3bd7d78f61dff3c902ac4b38d19215b"
+  },
+  {
+    "id": null,
+    "repo_name": "brianchandotcom/liferay-portal",
+    "founded_bug_commit_hash": "59035a8c658ade4a5f1b3ac10bb27c15ff797f2b",
+    "fix_commit_hash": "123f0dc63bae6a491ccd3a3552db856e0eddd276"
+  }
+]
