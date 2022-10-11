@@ -18,7 +18,7 @@ const raszz_map_project = new Map();
 
 res_raszz.forEach((bic) => {
   raszz_map.set(bic.founded_bug_commit_hash, bic)
-  raszz_map_project.set(bic.repo_name, bic)
+  raszz_map_project.set(bic.fix_commit_hash, bic)
 })
 
 let raszz_right_count = 0;
